@@ -34,5 +34,5 @@ It scrapes a user's Reddit activity, analyzes the content using an LLM, and retu
 ```bash
 git clone https://github.com/your-username/reddit-persona-generator.git
 cd reddit-persona-generator
-
+```
 ![Demo](persona_n.gif)
