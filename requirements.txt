@@ -1,0 +1,5 @@
+praw
+google-generativeai
+Pillow
+python-dotenv
+streamlit
