@@ -36,6 +36,6 @@ git clone https://github.com/your-username/reddit-persona-generator.git
 cd reddit-persona-generator
 ```
 ![Demo]
-(https://github.com/user-attachments/assets/f729ee26-7cfe-4da2-acdd-0b62acebd4ec)
+https://github.com/user-attachments/assets/f729ee26-7cfe-4da2-acdd-0b62acebd4ec
 
 
